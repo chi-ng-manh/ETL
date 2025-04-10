@@ -43,6 +43,7 @@ Database credentials:
 ## **Transform data step**
 
 **Enrollies' data**
+
 ![image](https://github.com/user-attachments/assets/220a6de5-4c6a-4242-ab6d-ab78e175e83c)
 
 ![image](https://github.com/user-attachments/assets/bd590f80-6e87-4b42-abe9-6e9e914e8839)
