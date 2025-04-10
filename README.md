@@ -39,3 +39,26 @@ Database credentials:
     Password: 550814
     Database name: company_course
     Table name: employment
+
+## **Transform data step**
+
+**Enrollies' data**
+![image](https://github.com/user-attachments/assets/220a6de5-4c6a-4242-ab6d-ab78e175e83c)
+
+![image](https://github.com/user-attachments/assets/bd590f80-6e87-4b42-abe9-6e9e914e8839)
+
+
+**Enrollies' Education**
+
+![image](https://github.com/user-attachments/assets/776d3bd5-a440-4f8f-9376-8252db45056d)
+
+![image](https://github.com/user-attachments/assets/431fc2e8-270d-45f1-be22-fd5963eb52dd)
+
+![image](https://github.com/user-attachments/assets/14b4d0f2-410e-4de8-a27e-646c2090cc48)
+
+**Enrollies' working experience**
+
+![image](https://github.com/user-attachments/assets/f7e6ac9e-aef5-4ecc-aa83-b1438b981981)
+
+![image](https://github.com/user-attachments/assets/0713526b-725a-4c3c-ae29-b3de34191ad0)
+
